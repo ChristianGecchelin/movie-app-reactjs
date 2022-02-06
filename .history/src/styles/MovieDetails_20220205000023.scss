@@ -1,0 +1,23 @@
+.section-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 80%;
+  min-width: 320px;
+  gap: 50px;
+  margin: 0 auto;
+  text-align: justify;
+}
+.section-container .text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+  width: 50%;
+  gap: 30px;
+}
+.section-container .text-container h3 {
+  font-size: 2.5rem;
+}

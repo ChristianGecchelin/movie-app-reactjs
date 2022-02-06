@@ -1,0 +1,11 @@
+.list-container {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.card-container {
+  width: 320px;
+}

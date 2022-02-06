@@ -1,0 +1,14 @@
+.input-container {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.input-container input {
+  width: 250px;
+  height: 50px;
+  padding: 5px 10px;
+  border: 2px solid white;
+  border-radius: 25px;
+}

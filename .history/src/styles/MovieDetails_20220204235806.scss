@@ -1,0 +1,13 @@
+.section-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: justify;
+  width: 80%;
+  min-width: 320px;
+}
+.section-container .text-container {
+  width: 50%;
+}
