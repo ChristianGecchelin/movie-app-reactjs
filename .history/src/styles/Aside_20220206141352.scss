@@ -1,0 +1,12 @@
+aside {
+  width: 15%;
+}
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 100%;
+  gap: 30px;
+}
+.list-container .card-container {
+}

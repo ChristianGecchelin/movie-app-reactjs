@@ -1,0 +1,9 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 30px;
+  min-width: 320px;
+}
